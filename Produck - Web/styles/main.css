@@ -1,0 +1,578 @@
+.product-style {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #22343D;
+  padding-top: 100px;
+}
+
+.product-cards {
+  display: flex;
+  padding-top: 56px;
+  gap: 46px;
+}
+
+.product-card-title {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 30px;
+}
+
+.product-card-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 13px;
+}
+
+.product-card {
+  width: 240px;
+  height: 178px;
+  opacity: 1;
+}
+
+.sign-up-button {
+  width: 175px;
+  height: 53px;
+  opacity: 1;
+  border-radius: 4px;
+  background-color: #02897A;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  margin-left: 444px;
+  margin-top: 34px;
+}
+
+.effortless {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.management-title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.myspace-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.accessory-title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.accessory-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.alterationists-title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.alterationists-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.management {
+  padding-top: 169px;
+}
+
+.management-title {
+  padding-top: 8px;
+}
+
+.myspace-desc {
+  padding-top: 23px;
+}
+
+.accessory-title {
+  padding-top: 30px;
+  color: #22343D;
+}
+
+.accessory-desc {
+  padding-top: 12px;
+}
+
+.alterationists-title {
+  padding-top: 25px;
+  color: #22343D;
+}
+
+.alterationists-desc {
+  padding-top: 12px;
+}
+
+.customer-page {
+  display: flex;
+  padding-top: 150px;
+  gap: 94px;
+}
+
+.customer-page-left {
+  width: 486px;
+  height: 427px;
+  opacity: 1;
+}
+
+.easier {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.customer {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 8px;
+}
+
+.space {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 23px;
+}
+
+.check-box-text {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.red-check {
+  width: 35px;
+  height: 35px;
+  opacity: 1;
+}
+
+.process {
+  background-image: url(../images/Bg-5.svg);
+  margin-top: 150px;
+}
+
+.process-title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #22343D;
+  padding-top: 52px;
+}
+
+.process-desc {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: center;
+  color: #22343D;
+  padding-top: 16px;
+}
+
+.wrapper-cards-top {
+  padding-top: 32px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper-cards-top-left {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-cards-top-right {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-cards-bottom {
+  padding-top: 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper-cards-bottom-right {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-cards-bottom-left {
+  display: flex;
+  align-items: center;
+}
+
+.process-div {
+  width: 963px;
+  height: 469px;
+  opacity: 1;
+}
+
+.take-care {
+  padding-left: 41px;
+}
+
+.prototype {
+  padding-right: 34px;
+}
+
+.design {
+  padding-right: 46.5px;
+}
+
+.help {
+  padding-left: 39px;
+}
+
+.expert-contact-btn {
+  width: 216px;
+  height: 53px;
+  opacity: 1;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  background-color: #02897A;
+  border-radius: 4px;
+  margin-left: 352px;
+  margin-top: 48px;
+}
+
+.contents-page {
+  padding-top: 150px;
+}
+
+.contents-title {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.contents-desc {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 8px;
+}
+
+.contents-boxes {
+  padding-top: 33px;
+  display: flex;
+  gap: 32px;
+}
+
+.contents-box {
+  width: 348px;
+  height: 359px;
+  opacity: 1;
+  border-width: 1px;
+  border-radius: 8px;
+  border: none;
+  border: 1px solid #DEDEDE;
+  align-items: center;
+}
+
+.wahid {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 24px;
+}
+
+.ari {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #22343D;
+}
+
+.increasing {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #22343D;
+  padding-top: 12px;
+  text-align: center;
+}
+
+.increasing1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #02897A;
+  text-align: center;
+  padding-top: 12px;
+}
+
+.slider1 {
+  margin-left: 490px;
+  margin-top: 64px;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.additional_title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0px;
+  color: #22343D;
+  text-align: center;
+  padding-top: 6px;
+}
+
+.boxes {
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-between;
+}
+
+.box {
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2509803922);
+  width: 322.6488037109px;
+  height: 456px;
+  opacity: 1;
+  top: 4854px;
+  left: 145px;
+  border-radius: 8px;
+}
+
+.type {
+  text-align: center;
+  padding-top: 24px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  font-family: "Poppins", sans-serif;
+  color: #22343D;
+}
+
+.desc {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 40px;
+  letter-spacing: 0px;
+  color: #22343D;
+  text-align: center;
+}
+
+.price {
+  display: flex;
+  padding-left: 8px;
+}
+
+.inf {
+  padding-top: 24px;
+}
+
+.dollar_sign {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.1px;
+  color: #02897A;
+}
+
+.per_month {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.1px;
+  color: #AFAFAF;
+}
+
+.text {
+  align-items: center;
+}
+
+.only {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  color: #22343D;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.not {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  color: #22343D;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.land {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  letter-spacing: 0.2px;
+  color: #22343D;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.price_number {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 76px;
+  line-height: 100px;
+  letter-spacing: 0.2px;
+  color: #02897A;
+  padding-left: 80px;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  /* padding: 5px 15px; */
+  width: 139px;
+  height: 44px;
+  opacity: 1px;
+  top: 380px;
+  left: 91px;
+  border-radius: 8px;
+  align-items: center;
+  margin-left: 91px;
+  margin-top: 38px;
+  background-color: #02897A;
+  color: #FFFFFF;
+  border: none;
+}
+
+/* .box2 {
+    background-color: #02897A;
+} */
+.boxes :hover {
+  background-color: #02897A;
+}
+
+.boxes :hover h3 {
+  color: #FFFFFF;
+}
+
+.boxes :hover p {
+  color: #FFFFFF;
+}
+
+.boxes :hover h1 {
+  color: #FFFFFF;
+}
+
+.boxes :hover button {
+  background-color: #FFFFFF;
+  color: #02897A;
+}
+
+.dollar_sign :hover {
+  color: #FFFFFF;
+}
+
+.type :hover {
+  color: #FFFFFF;
+}
+
+.desc :hover {
+  color: #FFFFFF;
+}
+
+.only :hover {
+  color: #FFFFFF;
+}
+
+.not :hover {
+  color: #FFFFFF;
+}
+
+.land :hover {
+  color: #FFFFFF;
+}
+
+.btn :hover {
+  background-color: #FFFFFF;
+  color: #02897A;
+}
+
+.price-page {
+  padding-top: 150px;
+}/*# sourceMappingURL=main.css.map */
